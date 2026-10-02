@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Currículo — Marcio Deivid Ferreira Pavão",
+      "hasCanvas": false,
+      "bodyTextLen": 2521,
+      "bodyTextHash": "932730987279a4e7fa915248f2b8963454e50cec256872f0f24a5912091c104d",
+      "bodyTextPrefix": "Ir para o conteúdo MP Marcio Pavão Início Competências Formação ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Currículo — Marcio Deivid Ferreira Pavão",
+      "hasCanvas": false,
+      "bodyTextLen": 2472,
+      "bodyTextHash": "2e26910037e7ce71cfa40de4be30836bdf1d1d32e3cc9a6946486890efdd5a8f",
+      "bodyTextPrefix": "Ir para o conteúdo MP Marcio Pavão CURRÍCULO PROFISSIONAL Marcio",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}

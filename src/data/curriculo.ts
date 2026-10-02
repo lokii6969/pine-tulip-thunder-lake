@@ -1,0 +1,109 @@
+export const autor = {
+  nome: "Marcio Deivid Ferreira Pavão",
+  cargo: "Desenvolvedor de Sistemas",
+  cidade: "Icoaraci, Belém/PA",
+  resumo:
+    "Sou um desenvolvedor de sistemas em início de carreira, com sólida base técnica e foco em solução de problemas. Atualmente cursando o 2º semestre de Engenharia de Software.",
+  foto: "/foto-perfil.jpg",
+  idiomas: "Inglês e italiano — nível básico",
+};
+
+export const competencias = [
+  { nome: "Trabalho em equipe", arquivo: "equipe.svg", detalhe: "Facilidade para colaborar em projetos" },
+  { nome: "Adaptabilidade", arquivo: "scrum.svg", detalhe: "Ajuste rápido a novas ferramentas e desafios" },
+  { nome: "Aprendizado rápido", arquivo: "formacao.svg", detalhe: "Disposição constante para adquirir conhecimento" },
+  { nome: "Persistência", arquivo: "experiencia.svg", detalhe: "Dedicação no estudo e no desenvolvimento profissional" },
+  { nome: "Perfil analítico", arquivo: "sql.svg", detalhe: "Interesse em resolver problemas com soluções eficientes" },
+  { nome: "Desenvolvimento web", arquivo: "html.svg", detalhe: "Sites e plataformas voltadas a uso real" },
+  { nome: "Robótica", arquivo: "robotica.svg", detalhe: "Projetos práticos em hardware e automação" },
+  { nome: "Jogos digitais", arquivo: "jogos.svg", detalhe: "Criação de bases e protótipos de jogos" },
+];
+
+export const formacao = [
+  {
+    curso: "Bacharelado em Engenharia de Software",
+    instituicao: "Universidade do Estado do Pará (UEPA)",
+    periodo: "Em andamento",
+    url: "https://www.uepa.br",
+    detalhe: "2º semestre em andamento, com foco em solução de problemas e base técnica sólida.",
+  },
+  {
+    curso: "Técnico em Desenvolvimento de Sistemas",
+    instituicao: "Instituto Federal do Pará (IFPA) — Campus Belém",
+    periodo: "2023 — 2025",
+    url: "https://ifpa.edu.br",
+    detalhe: "Formação técnica integrada ao ensino médio.",
+  },
+  {
+    curso: "Técnico de Informática, robótica e jogos",
+    instituicao: "Compartilhe Informática — Icoaraci, Belém",
+    periodo: "Cursos",
+    url: "",
+    detalhe: "Técnico de Informática e Técnico em Operador de computador, robótica e desenvolvimento de jogos.",
+  },
+];
+
+export const experiencias = [
+  {
+    cargo: "Desenvolvedor — Projeto de Conclusão de Curso",
+    empresa: "IFPA Campus Belém",
+    url: "https://ifpa.edu.br",
+    periodo: "2025",
+    local: "Belém, PA",
+    resumo:
+      "Plataforma web para jovens e adultos organizar as finanças pessoais, com dicas de educação financeira e fóruns de discussão, incentivando disciplina e planejamento econômico.",
+    atividades: [
+      "Criação da plataforma web de educação financeira",
+      "Organização de conteúdos e dicas de planejamento econômico",
+      "Espaço de fóruns para discussão entre jovens e adultos",
+    ],
+  },
+  {
+    cargo: "Projetos de robótica",
+    empresa: "IFPA / projetos acadêmicos",
+    url: "https://ifpa.edu.br",
+    periodo: "2023 — 2025",
+    local: "Belém, PA",
+    resumo: "Experiência prática em robótica adquirida em projetos durante a formação técnica.",
+    atividades: [
+      "Montagem e programação de protótipos",
+      "Trabalho em equipe em desafios tecnológicos",
+      "Aplicação de lógica de programação em hardware",
+    ],
+  },
+  {
+    cargo: "Desenvolvimento de sites",
+    empresa: "Projetos acadêmicos e pessoais",
+    url: "https://ifpa.edu.br",
+    periodo: "2023 — 2025",
+    local: "Belém, PA",
+    resumo: "Criação de páginas e plataformas web como parte da formação em desenvolvimento de sistemas.",
+    atividades: [
+      "Estrutura HTML e estilos CSS",
+      "Páginas voltadas a uso educativo e institucional",
+      "Organização de conteúdo e navegação",
+    ],
+  },
+  {
+    cargo: "Bases para jogos digitais",
+    empresa: "Projetos acadêmicos",
+    url: "https://ifpa.edu.br",
+    periodo: "2023 — 2025",
+    local: "Belém, PA",
+    resumo: "Criação de bases e protótipos para jogos digitais durante o percurso técnico.",
+    atividades: [
+      "Prototipação de mecânicas e estruturas de jogo",
+      "Lógica de programação aplicada a interatividade",
+      "Experimentação com ferramentas de desenvolvimento",
+    ],
+  },
+];
+
+export const contato = {
+  email: "mfsdeivid701@gmail.com",
+  telefone: "(91) 98552-2333",
+  telefone2: "(91) 98864-4646",
+  telefoneHref: "tel:+5591985522333",
+  telefone2Href: "tel:+5591988644646",
+  cidade: "Icoaraci, Belém/PA",
+};
